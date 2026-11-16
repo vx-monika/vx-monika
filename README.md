@@ -1,6 +1,4 @@
-# Haiii, I am Trvefemboy
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BE49F7&width=435&lines=Hello%2C+I+am+Trvefemboy)](https://git.io/typing-svg)
+# Hello, there! I am Monika!
 
 # I am a programmer and an intermediate learner of hacking and stuff
 
@@ -25,7 +23,3 @@
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C3A?style=flat-square&logo=assemblyscript&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52B4?style=flat-square&logo=kotlin&logoColor=white)&nbsp;
 ![Rust](https://shields.io/badge/-Rust-3776AB?style=flat-square&logo=rust&logoColor=white)&nbsp;
-### Contact me at
-[![ProtonMail](https://img.shields.io/badge/-ProtonMail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:trvefemboykvlt@proton.me)&nbsp;
-[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/trvefemboy1337)&nbsp;
-![Signal](https://img.shields.io/badge/-Signal-3EB489?style=flat-square&logo=signal&logoColor=white) username at signal: trvefemboy.66
