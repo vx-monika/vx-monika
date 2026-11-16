@@ -1,4 +1,4 @@
-[![vx-monika's GitHubCard]](https://githubcard.com/vx-monika.svg?d=KDX2tLzF4k_4)
+[](https://githubcard.com/vx-monika.svg?d=KDX2tLzF4k_4)
 # Hello, there! I am Monika!
 
 # I am a programmer and an intermediate learner of hacking and stuff
