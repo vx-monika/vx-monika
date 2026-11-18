@@ -6,6 +6,7 @@
 ### My main languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=flat-square)
+![Rust](https://shields.io/badge/-Rust-3776AB?style=flat-square&logo=rust&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)&nbsp;
 
@@ -23,4 +24,3 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)&nbsp;
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C3A?style=flat-square&logo=assemblyscript&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52B4?style=flat-square&logo=kotlin&logoColor=white)&nbsp;
-![Rust](https://shields.io/badge/-Rust-3776AB?style=flat-square&logo=rust&logoColor=white)&nbsp;
