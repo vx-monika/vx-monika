@@ -1,4 +1,4 @@
-![](./vx-monika-card.svg)
+![GitHubCard](./vx-monika-card.svg)
 # Hello, there! I am Monika!
 
 # I am a programmer and an intermediate learner of hacking and stuff
